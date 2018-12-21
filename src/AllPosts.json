@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Angular Schematics: Unit Testing",
+      "description": "Building Schematics can be magical. With very little code you can build large structures that can be replicated over multiple projects. As with any coding, you’ll want to create unit tests to ensure that every change you made is exact and many situations are tested with ease. When starting out with Schematics, it might not be terribly obvious how to create tests for the tools you’ve created.",
+      "author": "Stephen Fluin"
+    },
+    {
+      "id": 2,
+      "title": "Creating a successful meetup at your company",
+      "description": "At Tesla, I came up with an idea to hold monthly Web Development meetups where employees could learn from each other and the external community. We wanted to create better cross-team collaboration, identify sharing opportunities, and identify and leverage best practices. I want to share my story with the hope of inspiring more communication within and across other companies.",
+      "author": "Jonathan Campos"
+    },
+    {
+      "id": 3,
+      "title": "2 New Tools to help with AngularJS to Angular Migrations",
+      "description": "Many developers are embarking on the migration journey of bringing AngularJS applications up to modern-day web development standards with Angular, and there are a lot of approaches. It can be challenging to know which upgrading path is right and where to find guidance on how to migrate, but it doesn’t have to be!",
+      "author": "Junkie"
+    },
+    {
+      "id": 4,
+      "title": "Angular v6.1 Now Available TypeScript 2.9, Scroll Positioning, and more",
+      "description": "SUPER LUXURY",
+      "author": "Elana Olson"
+    },
+    {
+      "id": 5,
+      "title": "Apps That Work Natively on the Web and Mobile",
+      "description": "Today we’re happy to announce an exciting new way to build web and mobile apps with Angular and NativeScript.",
+      "author": "Sebastian Witalec"
+    },
+    {
+      "title": "Angular Chrome App ",
+      "description": "A Chrome App is installed on all the Chromebooks. The app synchronizes with the backend and provides a place for users to manage the Chromebooks they have loaned.",
+      "author": "Madhu",
+      "id": 6
+    },
+    {
+      "title": "Angular Web Application",
+      "description": "A web app lets Grab and Go administrators monitor and manage the fleet of Chromebooks.",
+      "author": "Madhu",
+      "id": 7
+    },
+    {
+      "title": "Google App Engine application",
+      "description": "A backend application manages the data and provides a standard API.",
+      "author": "Gangadhar",
+      "id": 8
+    }
+  ]
+}
